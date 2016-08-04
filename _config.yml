@@ -1,0 +1,14 @@
+name: simpleart
+layout_spectrum: 0.9608852033555002
+typography_spectrum: 0.8228311938313282
+color:
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  brandStrength: 0.6851675617329742
+  lightness: 0.449153382225127
+  saturation: 0.6253661980356144
+  rhythmicContrast: 0.7535904424288906
